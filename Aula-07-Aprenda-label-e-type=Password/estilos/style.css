@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+#senha {
+            color: red;
+        }
+        label {
+            color: blue;
+        }
+
+        body {
+            background-color: black;
+        }
+
+        h1 {
+            color: white;
+        }
+
+        .btn {
+            background-color: green;
+            border: none;
+        }
